@@ -287,6 +287,28 @@
       "staff_injury": 2
     }, 
     {
+      "bomb_attack": 22, 
+      "child_death": 2, 
+      "civilian_attack": 23, 
+      "civilian_building_attack": 1, 
+      "civilian_death": 33, 
+      "civilian_injury": 9, 
+      "date": "Total", 
+      "govoffice_attack": 0, 
+      "house_fire": 2, 
+      "id": 14.0, 
+      "phone_tower_attack": 10, 
+      "sangha_death": 3, 
+      "sangha_injury": 2, 
+      "scholl_fire": 0, 
+      "security_attack": 89, 
+      "security_death": 95, 
+      "security_injury": 46, 
+      "staff_attack": 31, 
+      "staff_death": 30, 
+      "staff_injury": 1
+    },
+    {
       "bomb_attack": 588, 
       "child_death": 15, 
       "civilian_attack": 416, 
@@ -307,6 +329,6 @@
       "staff_attack": 208, 
       "staff_death": 165, 
       "staff_injury": 57
-    }
+    }    
   ]
 }
