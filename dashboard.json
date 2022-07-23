@@ -11285,28 +11285,6 @@
       "staff_attack": 1, 
       "staff_death": 1, 
       "staff_injury": 0
-    },
-    {
-      "bomb_attack": 0, 
-      "child_death": 0, 
-      "civilian_attack": 0, 
-      "civilian_building_attack": 0, 
-      "civilian_death": 0, 
-      "civilian_injury": 0, 
-      "date": "1-Feb-21", 
-      "govoffice_attack": 0, 
-      "house_fire": 0, 
-      "id": 1.0, 
-      "phone_tower_attack": 0, 
-      "sangha_death": 0, 
-      "sangha_injury": 0, 
-      "scholl_fire": 0, 
-      "security_attack": 0, 
-      "security_death": 0, 
-      "security_injury": 0, 
-      "staff_attack": 0, 
-      "staff_death": 0, 
-      "staff_injury": 0
     }
   ]
 }
