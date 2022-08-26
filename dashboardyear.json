@@ -201,7 +201,7 @@
     {
       "bomb_attack": 52, 
       "child_death": 0, 
-      "civilian_attack": 166, 
+      "civilian_attack": 66, 
       "civilian_building_attack": 0, 
       "civilian_death": 55, 
       "civilian_injury": 1, 
@@ -399,7 +399,7 @@
     {
       "bomb_attack": 678, 
       "child_death": 19, 
-      "civilian_attack": 656, 
+      "civilian_attack": 556, 
       "civilian_building_attack": 69, 
       "civilian_death": 786, 
       "civilian_injury": 396, 
