@@ -288,7 +288,7 @@
     }, 
     {
       "bomb_attack": 22, 
-      "child_death": 0, 
+      "child_death": 2, 
       "civilian_attack": 23, 
       "civilian_building_attack": 1, 
       "civilian_death": 33, 
