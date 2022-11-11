@@ -419,26 +419,26 @@
       "staff_injury": 5
     },
     {
-      "bomb_attack": 10, 
+      "bomb_attack": 20, 
       "child_death": 0, 
-      "civilian_attack": 31, 
-      "civilian_building_attack": 1, 
-      "civilian_death": 30, 
-      "civilian_injury": 48, 
+      "civilian_attack": 49, 
+      "civilian_building_attack": 5, 
+      "civilian_death": 59, 
+      "civilian_injury": 110, 
       "date": "Oct-22", 
-      "govoffice_attack": 7, 
+      "govoffice_attack": 17, 
       "house_fire": 2, 
       "id": 20.0, 
       "phone_tower_attack": 0, 
-      "sangha_death": 0, 
-      "sangha_injury": 1, 
-      "scholl_fire": 3, 
-      "security_attack": 16, 
-      "security_death": 23, 
-      "security_injury": 12, 
-      "staff_attack": 4, 
-      "staff_death": 3, 
-      "staff_injury": 0
+      "sangha_death": 4, 
+      "sangha_injury": 4, 
+      "scholl_fire": 4, 
+      "security_attack": 32, 
+      "security_death": 37, 
+      "security_injury": 24, 
+      "staff_attack": 19, 
+      "staff_death": 11, 
+      "staff_injury": 12
     }
   ]
 }
