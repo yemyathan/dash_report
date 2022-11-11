@@ -1,26 +1,26 @@
 {
   "dashboardtotal": [
     {
-      "bomb_attack": 727, 
+      "bomb_attack": 737, 
       "child_death": 19, 
-      "civilian_attack": 648, 
-      "civilian_building_attack": 88, 
-      "civilian_death": 923, 
-      "civilian_injury": 532, 
+      "civilian_attack": 666, 
+      "civilian_building_attack": 92, 
+      "civilian_death": 952, 
+      "civilian_injury": 594, 
       "date": "Total", 
-      "govoffice_attack": 170, 
+      "govoffice_attack": 180, 
       "house_fire": 87, 
       "id": 13.0, 
       "phone_tower_attack": 65, 
-      "sangha_death": 29, 
-      "sangha_injury": 13, 
-      "scholl_fire": 70, 
-      "security_attack": 714, 
-      "security_death": 1007, 
-      "security_injury": 408, 
-      "staff_attack": 456, 
-      "staff_death": 339, 
-      "staff_injury": 115
+      "sangha_death": 33, 
+      "sangha_injury": 16, 
+      "scholl_fire": 51, 
+      "security_attack": 730, 
+      "security_death": 1021, 
+      "security_injury": 420, 
+      "staff_attack": 471, 
+      "staff_death": 347, 
+      "staff_injury": 127
     }
   ]
 }
