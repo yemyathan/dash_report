@@ -549,8 +549,7 @@
       "staff_attack": 29, 
       "staff_death": 24, 
       "staff_injury": 5
-    }
-    ==============================
+    },
     {
       "bomb_attack": 19, 
       "child_death": 0, 
@@ -572,9 +571,7 @@
       "staff_attack": 7, 
       "staff_death": 8, 
       "staff_injury": 5
-    }
-    =============================
-    =============================
+    },
     {
       "bomb_attack": 0, 
       "child_death": 0, 
