@@ -571,6 +571,28 @@
       "staff_attack": 7, 
       "staff_death": 8, 
       "staff_injury": 5
-    }   
+    },
+     {
+      "bomb_attack": 0, 
+      "child_death": 0, 
+      "civilian_attack": 38, 
+      "civilian_building_attack": 9, 
+      "civilian_death": 53, 
+      "civilian_injury": 47, 
+      "date": "May-23", 
+      "govoffice_attack": 6, 
+      "house_fire": 1, 
+      "id": 27.0, 
+      "phone_tower_attack": 0, 
+      "sangha_death": 0, 
+      "sangha_injury": 1, 
+      "scholl_fire": 0, 
+      "security_attack": 9, 
+      "security_death": 9, 
+      "security_injury": 6 
+      "staff_attack": 19, 
+      "staff_death": 14, 
+      "staff_injury": 4
+    }    
   ]
 }
