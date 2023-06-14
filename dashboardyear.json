@@ -546,9 +546,56 @@
       "security_attack": 4, 
       "security_death": 15, 
       "security_injury": 10, 
-      "staff_attack": 19, 
+      "staff_attack": 29, 
       "staff_death": 24, 
       "staff_injury": 5
+    }
+    ==============================
+    {
+      "bomb_attack": 19, 
+      "child_death": 0, 
+      "civilian_attack": 34, 
+      "civilian_building_attack": 6, 
+      "civilian_death": 56, 
+      "civilian_injury": 69, 
+      "date": "Apr-23", 
+      "govoffice_attack": 6, 
+      "house_fire": 70, 
+      "id": 26.0, 
+      "phone_tower_attack": 0, 
+      "sangha_death": 1, 
+      "sangha_injury": 2, 
+      "scholl_fire": 0, 
+      "security_attack": 4, 
+      "security_death": 2, 
+      "security_injury": 0, 
+      "staff_attack": 7, 
+      "staff_death": 8, 
+      "staff_injury": 5
+    }
+    =============================
+    =============================
+    {
+      "bomb_attack": 0, 
+      "child_death": 0, 
+      "civilian_attack": 38, 
+      "civilian_building_attack": 9, 
+      "civilian_death": 53, 
+      "civilian_injury": 47, 
+      "date": "May-23", 
+      "govoffice_attack": 6, 
+      "house_fire": 1, 
+      "id": 27.0, 
+      "phone_tower_attack": 0, 
+      "sangha_death": 0, 
+      "sangha_injury": 1, 
+      "scholl_fire": 0, 
+      "security_attack": 9, 
+      "security_death": 9, 
+      "security_injury": 6 
+      "staff_attack": 19, 
+      "staff_death": 14, 
+      "staff_injury": 4
     }
   ]
 }
