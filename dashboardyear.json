@@ -596,7 +596,7 @@
     },
      {
       "bomb_attack": 27, 
-      "child_death": 23, 
+      "child_death": 0, 
       "civilian_attack": 23, 
       "civilian_building_attack": 12, 
       "civilian_death": 23, 
@@ -615,6 +615,28 @@
       "staff_attack": 15, 
       "staff_death": 16, 
       "staff_injury": 30
-    }   
+    },
+     {
+      "bomb_attack": 18, 
+      "child_death": 0, 
+      "civilian_attack": 31, 
+      "civilian_building_attack": 10, 
+      "civilian_death": 33, 
+      "civilian_injury": 63, 
+      "date": "July-23", 
+      "govoffice_attack": 7, 
+      "house_fire": 96, 
+      "id": 29.0, 
+      "phone_tower_attack": 1, 
+      "sangha_death": 4, 
+      "sangha_injury": 2, 
+      "scholl_fire": 3, 
+      "security_attack": 9, 
+      "security_death": 21, 
+      "security_injury": 1, 
+      "staff_attack": 19, 
+      "staff_death": 12, 
+      "staff_injury": 5
+    }     
   ]
 }
